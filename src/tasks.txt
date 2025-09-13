@@ -1,0 +1,32 @@
+[
+    {
+        "id": "task_685005a80a563",
+        "name": "wake in the morning",
+        "completed": true
+    },
+    {
+        "id": "task_685178d054e14",
+        "name": "final task 1",
+        "completed": true
+    },
+    {
+        "id": "task_685178d5ed1d9",
+        "name": "final task 2",
+        "completed": false
+    },
+    {
+        "id": "task_685190b2d1891",
+        "name": "give water to plants",
+        "completed": false
+    },
+    {
+        "id": "task_685190c7d9d30",
+        "name": "do the DSA for 2 hr",
+        "completed": true
+    },
+    {
+        "id": "task_685190da3285f",
+        "name": "Evening run of 5 km",
+        "completed": false
+    }
+]
